@@ -21,5 +21,5 @@ Mi repositorio para subir evidencia de tareas y examenes de la materia Lenguajes
 | [Tarea 2.2](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/69a51750be880e2dcec871503cc312a253f8ab49/Tareas%20U2/T2U2_Bot.md)     | 16 de abril |
 | [Tarea 2.2 Codigo](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U2/botelegram.py)     | 16 de abril |
 | [Tarea 2.3](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/16458ec7ccf01cfea7459e5388d0399c59c295e4/Tareas%20U2/T3U2_Expresiones%20regulares.pdf)     | 16 de abril |
-
+| [Tarea 3.1](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U3/T1U3_Ejercicios.pdf)     | 25 de abril |
 </div>

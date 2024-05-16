@@ -37,4 +37,11 @@ Mi repositorio para subir evidencia de tareas y examenes de la materia Lenguajes
 | [Tarea 3.1](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U3/T1U3_Ejercicios.pdf)     | 25 de abril |
 | [Tarea 3.2](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U3/T2U3_Caso%20practico%20Automata%20Finito.pdf)     | 02 de mayo |
 
+### Tareas Unidad 4
+
+| Tarea         | Fecha      |
+| :-----------: | :--------: |
+| [Tarea 4.1](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U4/T1U4_EQUIPO.pdf)     | 16 de mayo |
+| [Tarea 4.2](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U4/T2U4_EQUIPO.pdf)     | 16 de mayo |
+
 </div>

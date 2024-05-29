@@ -1,0 +1,16 @@
+5 - 3 + 4 > 4 = 4
+
+if “x > y“ {
+imp “X es mayor que Y” ;
+}
+
+switch “X < Y” (
+imp “X es menor” ;
+) case (
+imp “Y es menor” ;
+)
+
+sen ( )
+cos ( )
+tan ( )
+rad ( )

@@ -50,6 +50,13 @@ Mi repositorio para subir evidencia de tareas y examenes de la materia Lenguajes
 | Tarea         | Fecha      |
 | :-----------: | :--------: |
 | [Tarea 5.1](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U5/T1U5_EQUIPO.pdf)     |  28 mayo |
-| [Tarea 5.2]()     | 30 de mayo |
+| [Tarea 5.2 Lexico](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U5/lexico.py)     | 30 de mayo |
+| [Tarea 5.2 Sintactico](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U5/sintactico.py)     | 30 de mayo |
 
+### Tareas Unidad 6
+
+| Tarea         | Fecha      |
+| :-----------: | :--------: |
+| [Tarea 6.1](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U6/T1U6_Mapa%20Conceptual.pdf)     |  7 de junio |
+| [Tarea 6.2](https://github.com/Hansel2731/Lenguajes-y-Automatas/blob/master/Tareas%20U6/T2U6_Comentarios%20película.pdf)     | 11 de junio |
 </div>
